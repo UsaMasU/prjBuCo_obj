@@ -2,6 +2,7 @@
 
 import random
 
+# class Data
 class Data:
     """Data"""
     ExceptList = []
@@ -65,7 +66,7 @@ class Data:
         for stringNum in range(len(self.DigitsList)):
             print(stringNum, self.DigitsList[stringNum])
 
-# class Generator 
+# class Generator
 class Generator:
     """Class generator"""
     def __init__(self, name=''):
@@ -273,6 +274,7 @@ class Generator:
         # print('Find the same:',FindResult)
         return FindResult
 
+# class Analyze
 class Analyze:
     """Class analyze"""
 
