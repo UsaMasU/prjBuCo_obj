@@ -2,6 +2,7 @@
 
 from BuCo_AI import *
 
+# class Player
 class Player:
     """Player"""
     playersCount = 0
