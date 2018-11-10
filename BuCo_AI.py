@@ -65,6 +65,7 @@ class Data:
         for stringNum in range(len(self.DigitsList)):
             print(stringNum, self.DigitsList[stringNum])
 
+# class Generator 
 class Generator:
     """Class generator"""
     def __init__(self, name=''):
